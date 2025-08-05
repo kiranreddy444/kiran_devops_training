@@ -2,7 +2,7 @@ name: First workflow
 
 on: 
   pull_request:
-     types: labeled
+     types: edited
   
 jobs: 
 
