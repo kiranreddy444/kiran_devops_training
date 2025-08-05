@@ -16,8 +16,7 @@ jobs:
      steps:
         - name: Print test - chrome
           run: echo 'test chrome'
-        - name: Print test - edge
-          run: echo 'test edge'
+          
   deploy:
      runs-on: ubuntu-latest
      steps:
