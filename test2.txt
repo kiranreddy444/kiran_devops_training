@@ -1,1 +1,9 @@
-hi hello kiran ok
+<<<<<<< HEAD
+Hello devops
+
+ok
+=======
+Hi devops
+>>>>>>> 8bc36b449a2409c28307a6cc9142ec0d4669d00f
+
+hello
